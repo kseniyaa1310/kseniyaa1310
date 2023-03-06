@@ -43,10 +43,9 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 
 
 ### My favorite quotes: 
-> - “Software testers do not make software; they only make them better.” (Anonymous) 
-> - “Never allow the same bug to bite you twice.” (Steve Maguire)
-> - “There are two ways to write error-free programs; only the third one works.” (Alan J. Perlis)
-> - “Talk is cheap. Show me the code.” (Linus Torvalds)
+> - “If you don't like testing your product, most likely your customers won't like it either!.” 
+> - “Dont't document your bug.. Fix it!!!"
+> - “Software testers always go to heaven; they’ve already had their fair share of hell."
   
 
 
