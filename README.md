@@ -8,8 +8,7 @@
 <div align="center">
 </div>
   <div align="center">
-  <img src=https://www.shutterstock.com/image-illustration/machine-code-languages-on-blue-technology-1680857539.jpeg>
-</div>
+
   
    ## :hammer_and_wrench: Languages and Tools I use :
   <div>
