@@ -42,9 +42,9 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 
 
 ### My favorite quotes: 
- “If you don't like testing your product, most likely your customers won't like it either!.” 
- “Dont't document your bug.. Fix it!!!"
- “Software testers always go to heaven; they’ve already had their fair share of hell."
+ >- “If you don't like testing your product, most likely your customers won't like it either!.” 
+ >- “Dont't document your bug.. Fix it!!!"
+ >- “Software testers always go to heaven; they’ve already had their fair share of hell."
    
   
 
